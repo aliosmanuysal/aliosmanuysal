@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 -👋 Hello, I'm @aliosmanuysal<br>-🎓Anadolu University - I study Computer Programming<br>- 👀 I am interested in software development<br>- 🌱 I am currently learning Python and JavaScript<br>- 🫶 I want to cooperate<br>- 📫 How to contact me: aliosmanuysall@gmail.com
 
 
