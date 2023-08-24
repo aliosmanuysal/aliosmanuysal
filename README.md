@@ -1,7 +1,7 @@
 # 💫 About Me:
 -👋 Hello, I'm @aliosmanuysal<br>-🎓Anadolu University - I study Computer Programming<br>- 👀 I am interested in software development<br>- 🌱 I am currently learning Python and JavaScript<br>- 🫶 I want to cooperate<br>- 📫 How to contact me: aliosmanuysall@gmail.com
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliosmanuysal&label=Profile%20views&color=0e75b6&style=flat" alt="aliosmanuysal" /> </p>
 
