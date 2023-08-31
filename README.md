@@ -35,11 +35,6 @@
   <a href="https://ko-fi.com/aliosmanuysal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aliosmanuysal" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliosmanuysal&show_icons=true&locale=en&layout=compact" alt="aliosmanuysal" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliosmanuysal&show_icons=true&locale=en" alt="aliosmanuysal" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliosmanuysal&" alt="aliosmanuysal" /></p>
-
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
