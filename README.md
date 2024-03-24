@@ -1,4 +1,6 @@
 # 💫 About Me:
+01010011 01000001 🙋‍♂️
+
 - 👋 Hello, I'm @aliosmanuysal<br>- 🎓 I study Computer Programming at Anadolu University and Interior Architecture at Muğla University<br>- 👀 I am interested in software development<br>- 🌱 I am currently learning Full-Stack Web Development<br>- 🫶 I want to cooperate<br>- 📫 How to contact me: aliosmanuysall@gmail.com
 
 
