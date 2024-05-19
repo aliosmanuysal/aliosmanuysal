@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ali Osman UYSAL</h1>
 <h3 align="center">01010011 01000001 🙋‍♂️ </h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xod2Z2MzI3OWgxdDR2OGp4ejlmcXhidmJqZjhoY240ZHMzeWFraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt6bzkwdWl5dzJycHplMjljZ2x4ZTF6bnJ3cHFiZ2NkZHJzeW9iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="resim" /></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliosmanuysal&label=Profile%20views&color=0e75b6&style=flat" alt="aliosmanuysal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliosmanuysal&theme=default" alt="aliosmanuysal" /></a> </p>
